@@ -1,0 +1,24 @@
+Calendar:
+------------
+"Alexa, add an event to my calendar"
+"Alexa, how's my day look"
+"Alexa, add 2:00 pm meeting to my calendar"
+"Alexa, what's my net appointment"
+"Alexa, show my calendar"
+
+
+Alarm:
+----------
+"Alexa, set an alarm every day for 7 am"
+"Alexa, set an alarm for 11:00 pm tomorow"
+
+Chewbacca:
+-----------
+"Alex, start chewbacca chat"
+"Alexa, open chewbacca chat"
+"Alexa, ask chewbacca chat if i am the senate"
+
+Tell Lord Vader:
+-----------------
+"Alexa, launch Lord Vader"
+"Alexa, tell Lord Vader that the Emperor commands you to make contact with him"
